@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "twFlnI1hsJCFc2p7fxz7FtbzJrgwmG3zHAcYiNFd/yCvUrPY1f7ANG2lvXt+Hi4mYBGXURJ/pcW5K2zQA1Pm+w==",
+  "success": true,
+  "projectFilePath": "/Users/milorad.felbapov/TestProjects/XamarinMapArcGISApp/XamarinArcGis/XamarinArcGis.iOS/XamarinArcGis.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/milorad.felbapov/.nuget/packages/esri.arcgisruntime/100.12.0/esri.arcgisruntime.100.12.0.nupkg.sha512",
+    "/Users/milorad.felbapov/.nuget/packages/esri.arcgisruntime.runtimes.ios/100.12.0/esri.arcgisruntime.runtimes.ios.100.12.0.nupkg.sha512",
+    "/Users/milorad.felbapov/.nuget/packages/esri.arcgisruntime.xamarin.forms/100.12.0/esri.arcgisruntime.xamarin.forms.100.12.0.nupkg.sha512",
+    "/Users/milorad.felbapov/.nuget/packages/esri.arcgisruntime.xamarin.ios/100.12.0/esri.arcgisruntime.xamarin.ios.100.12.0.nupkg.sha512",
+    "/Users/milorad.felbapov/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/milorad.felbapov/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/milorad.felbapov/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

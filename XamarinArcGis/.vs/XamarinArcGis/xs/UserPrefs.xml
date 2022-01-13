@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3D49E272-817B-4A8A-A60C-14D1428016CD}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinArcGis FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.XamarinArcGis.Android FirstBuild="True" PreferredExecutionTarget="Android.Nexus_5X_API_29" />
+  <MonoDevelop.Ide.ItemProperties.XamarinArcGis.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinArcGis/MainPage.xaml">
+    <Files>
+      <File FileName="XamarinArcGis/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="XamarinArcGis/MainPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinArcGis" expanded="True">
+            <Node name="XamarinArcGis" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
