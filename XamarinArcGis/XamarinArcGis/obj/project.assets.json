@@ -1043,13 +1043,12 @@
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/milorad.felbapov/.config/NuGet/NuGet.Config"
+        "/Users/milorad.felbapov/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "/Users/milorad.felbapov/Desktop": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

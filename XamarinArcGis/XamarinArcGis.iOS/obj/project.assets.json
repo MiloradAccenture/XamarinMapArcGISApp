@@ -2560,13 +2560,12 @@
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/milorad.felbapov/.config/NuGet/NuGet.Config"
+        "/Users/milorad.felbapov/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "/Users/milorad.felbapov/Desktop": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

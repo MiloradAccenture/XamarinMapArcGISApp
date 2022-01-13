@@ -1,5 +1,4 @@
 ﻿<Properties StartupConfiguration="{3D49E272-817B-4A8A-A60C-14D1428016CD}|Default">
-  <MonoDevelop.Ide.ItemProperties.XamarinArcGis FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.XamarinArcGis.Android FirstBuild="True" PreferredExecutionTarget="Android.Nexus_5X_API_29" />
   <MonoDevelop.Ide.ItemProperties.XamarinArcGis.iOS FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="XamarinArcGis/MainPage.xaml">

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Esri.ArcGISRuntime.Mapping;
 using Xamarin.Forms;
 
 namespace XamarinArcGis
@@ -13,6 +8,13 @@ namespace XamarinArcGis
         public MainPage()
         {
             InitializeComponent();
+            Initialize();
+        }
+
+        private void Initialize()
+        {
+            Map myMap = new Map(Basemap.CreateImagery());
+            MyMapView.Map = myMap;
         }
     }
 }
